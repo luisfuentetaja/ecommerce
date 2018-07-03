@@ -1,3 +1,45 @@
 footer{
   background-color: #ebebeb;
 }
+footer .footer-sup{
+  padding: 60px 0;
+}
+footer .footer-inf{
+  border-top: 1px solid black;
+  padding:32px 0;
+}
+footer .columna{
+  float: left;
+  padding: 0 10px 0 0;
+}
+footer .columna-small{
+  width: 25%
+
+}
+footer .columna-big{
+  width: 50%
+
+}
+
+footer .footer-sup .columna h3{
+  margin-bottom: 20px;
+}
+footer .footer-sup .columna #social li{
+  display: inline-block;
+  font-size: 25px;
+  margin-left: 10px;
+
+}
+footer a{
+  color: #6464646;
+}
+footer a hover{
+  color: #fe0000
+}
+footer .columna-big div{
+  margin-bottom: 15px
+}
+footer .footer-sup .support li{
+  line-height: 30px
+
+}
