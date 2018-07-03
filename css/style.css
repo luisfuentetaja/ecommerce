@@ -1,5 +1,7 @@
 @import url('reset.css');
 @import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
+@import url('header.css');
+
 @font-face {
     font-family: 'omnesmedium';
     src: url('../fonts/omnes_medium-webfont.woff2') format('woff2'),
@@ -24,4 +26,3 @@ body{
 	font-family: 'Raleway', sans-serif;
 }
 
-@import url('header.css');
